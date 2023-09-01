@@ -2,3 +2,17 @@ img {
     margin: auto;
     display: block;
 }
+
+* {
+    font-family: Georgia, "Times New Roman";
+    background-color: beige;
+}
+
+ul.main-recipes {
+    background-color: darkgray;
+}
+
+.ingredients *{
+    background-color: lightgray;
+    color: black
+}
